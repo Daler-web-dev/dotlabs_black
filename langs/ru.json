@@ -1,0 +1,10 @@
+{
+	"hero": {
+		"main": "<q>Мастерство в деталях.</q> Steve Jobs",
+		"small_title": "DOT LABS is your reliable partner in software development"
+	},
+	"portfolio": {
+		"title": "The Ultimate <br /> development studio",
+		"pText": "We build beautiful products with the latest technologies and frameworks. We are a team of passionate developers and designers that love to build amazing products."
+	}
+}
